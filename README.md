@@ -1,4 +1,3 @@
-# Wyporzyczalnia-rowerow
 # Wypożyczalnia rowerów
 
 ## Schemat blokowy systemu — Flowchart
